@@ -8,6 +8,14 @@ body{
   background-color: rgba(244, 208, 63, 1) ;
 }
 
+header
+{
+     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("1.jpg");
+     height: 100vh;
+     background-size: LANDSCAPE;
+     background-position: center;
+	 
+}
 
 #main{
   width: 100%;
